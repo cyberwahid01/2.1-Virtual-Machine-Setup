@@ -26,7 +26,7 @@ This section outlines the process of setting up Virtual Machines in Azure in pre
 1. In this lab I began with creating a Resource Group that would contain the virtual machines that would be used to execute the compute and networking activities in this section. 
 
 <p>
-<img src="https://imgur.com/g1ceDUz.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zlIZDJB.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 2. The next stage involved creating the Windows 10 Pro version 22H2 - x64 Gen2 Virtual Machine. Key steps to look out for during this process were to make sure that the Virtual Machines were set to the same location as the Resource Group, choosing the right service (Virtual Machine type) and choosing the right size so the Virtual Machine could smoothly execute all the necessary functions for the lab. The region was UK (South) and the size chosen was Standard_D2s_v3 - 2 vcpus, 8 GiB memory. Below shows the process of creating a Virtual Network. Usually this is automatically created and connected to the Virtual Machine but in this case I created one manually. 
@@ -34,7 +34,7 @@ This section outlines the process of setting up Virtual Machines in Azure in pre
 <br />
 
 <p>
-<img src="https://imgur.com/mmQSz6l.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1GORug6.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 3. Below we can see the the Windows Virtual Machine named "WindowsVM" and all of its associated resources nested inside the Resource Group created for the Virtual Machines. The other resources include the Public IP Address, Network Security Group, Virtual Network, Network Interface and Disk. 
@@ -42,7 +42,7 @@ This section outlines the process of setting up Virtual Machines in Azure in pre
 <br />
 
 <p>
-<img src="https://imgur.com/KQWWoFw.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/m6oGF7G.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 4. Below shows the end result of the exact same process as above but is the completed state of the Linux Virtual Machine. 
@@ -50,6 +50,6 @@ This section outlines the process of setting up Virtual Machines in Azure in pre
 <br />
 
 <p>
-<img src="https://imgur.com/Yh6AdTM.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YmTbM0Z.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
