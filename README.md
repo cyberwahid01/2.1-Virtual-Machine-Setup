@@ -3,7 +3,7 @@
 </p>
 
 <h1>Microsoft Azure Compute and Networking 🪟 - Setting Up Virtual Machines</h1>
-This section outlines the process of setting up Virtual Machines in Azure in preparation for Compute and Networking<br />
+This section outlines the process of setting up Virtual Machines in Azure in preparation for Compute and Networking<br /> (Link Back to Main Project Contents Page is at the Bottom of this Repo)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -53,3 +53,4 @@ This section outlines the process of setting up Virtual Machines in Azure in pre
 <img src="https://i.imgur.com/YmTbM0Z.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
